@@ -1,2 +1,13 @@
-# Postgraduate_SolidRocket
-Notes from the lectures written by Bao Futing
+# 复试笔记
+笔记源于鲍福廷老师的《固体火箭发动机设计》，针对专业：
+1. 西北工业大学航天学院，航空宇航科学与技术专业，航空宇航推进理论与工程方向
+2. 西北工业大学航天学院，航天动力工程专业（不区分方向）
+考试科目：火箭发动机设计（940）
+
+## 内容
+1. 940考试大纲（源于西北工业大学和研招网官网，仅供参考）
+2. 对应章节的Markdown文件
+3. 对应章节Markdown文件打印的PDF文档
+4. Excalidraw绘制的药柱设计等概念图json源码，后缀名为excalidraw的源码可以在[excalidraw官网](excalidraw.com)或者github开源的移动端导入打开
+5. Excalidraw绘制图像子图另存为png格式文件
+6. 药柱设计计算使用的python源码

@@ -8,6 +8,6 @@
 1. 940考试大纲（源于西北工业大学和研招网官网，仅供参考）
 2. 对应章节的Markdown文件
 3. 对应章节Markdown文件打印的PDF文档
-4. Excalidraw绘制的药柱设计等概念图json源码，后缀名为excalidraw的源码可以在[excalidraw官网](excalidraw.com)或者github开源的移动端导入打开
+4. Excalidraw绘制的药柱设计等概念图json源码，后缀名为excalidraw的源码可以在 excalidraw.com 或者github开源的移动端导入打开
 5. Excalidraw绘制图像子图另存为png格式文件
 6. 药柱设计计算使用的python源码
